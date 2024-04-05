@@ -28,6 +28,8 @@ Then you'll get an API-KEY.
 
     `API_KEY=your-api-key`
 
+    ![.env file](.envfile.png ".ENV")
+
 ## Run the script
 ```python main.py```
 
