@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+newsapi-python = "*"
+spacy = "*"
+pandas = "*"
+python-dotenv = "*"
+typer = "*"
+pytest = "*"
+bert-extractive-summarizer = "*"
+torch = "*"
+sentence-transformers = "*"
+
+[dev-packages]
+black = "*"
+isort = "*"
+
+[requires]
+python_version = "3.11"
